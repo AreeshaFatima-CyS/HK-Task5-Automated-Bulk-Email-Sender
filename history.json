@@ -1,0 +1,38 @@
+[
+    {
+        "email": "areeshahere03@gmail.com",
+        "subject": "hi",
+        "status": "Sent",
+        "timestamp": "2026-06-27 00:03:16"
+    },
+    {
+        "email": "areeshahere03@gmail.com",
+        "subject": "email sender",
+        "status": "Sent",
+        "timestamp": "2026-06-27 00:05:27"
+    },
+    {
+        "email": "ali@example.com",
+        "subject": "Thank You from HK Academy",
+        "status": "Sent",
+        "timestamp": "2026-06-27 00:05:45"
+    },
+    {
+        "email": "sara@example.com",
+        "subject": "Thank You from HK Academy",
+        "status": "Sent",
+        "timestamp": "2026-06-27 00:05:49"
+    },
+    {
+        "email": "ahmed@example.com",
+        "subject": "Thank You from HK Academy",
+        "status": "Sent",
+        "timestamp": "2026-06-27 00:05:54"
+    },
+    {
+        "email": "areeshaarts@gmail.com",
+        "subject": "Reminder: Upcoming Session",
+        "status": "Sent",
+        "timestamp": "2026-06-27 00:06:31"
+    }
+]
